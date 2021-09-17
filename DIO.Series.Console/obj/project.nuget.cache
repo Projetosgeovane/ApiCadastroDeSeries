@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsiubxemQa3UANecZpI6Mlokuk9RrS0z3xo+4X5yhE0KGevEu/RCWcqUqaTv2EZJbHEANyUQ1stkX6xGzMx97w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\geova\\Documents\\Api\\DIO.Series.Console\\DIO.Series.Console.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto DIO.Series não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto DIO.Series dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "DIO.Series",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
